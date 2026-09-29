@@ -19,6 +19,7 @@
 | [**cdn-cache-sim**](https://github.com/pastbologanesh0101/cdn-cache-sim) | Zipf workloads, consistent hashing, LRU/LFU/S3-FIFO edge tiers | [▶ playground](https://cdn-cache-sim-playground.vercel.app) |
 | [**regex-engine**](https://github.com/pastbologanesh0101/regex-engine) | Thompson-NFA regex engine — linear time, no catastrophic backtracking | [▶ playground](https://regexlab-playground.vercel.app) |
 | [**project-breakout**](https://github.com/pastbologanesh0101/project-breakout) | Active-recall dev environment with a Socratic AI assistant | [▶ app](https://project-breakout.vercel.app) |
+| [**habitmind**](https://github.com/pastbologanesh0101/habitmind) | Habit tracker with AI insights: pattern detection + Claude-powered coaching | [▶ app](https://habitmind-ai.vercel.app) |
 | [**streakforge**](https://github.com/pastbologanesh0101/streakforge) | Habit streak tracker with heatmaps (Next.js + Vitest) | [▶ app](https://streakforge-beryl.vercel.app) |
 | [**term2048**](https://github.com/pastbologanesh0101/term2048) | 2048 in the terminal with an expectimax AI | [▶ app](https://term2048.vercel.app) |
 
