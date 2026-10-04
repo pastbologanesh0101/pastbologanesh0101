@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vishwanathan 👋</h1>
+<h1 align="center">Hi, 👋</h1>
 <p align="center"><b>B.Tech CSE @ VIT Vellore</b> · I learn by building things from scratch — databases, compilers, networks, and the web apps on top.</p>
 
 <p align="center">
