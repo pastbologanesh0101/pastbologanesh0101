@@ -1,11 +1,6 @@
 <h1 align="center">Hi, 👋</h1>
 <p align="center"><b>B.Tech CSE @ VIT Vellore</b> · I learn by building things from scratch — databases, compilers, networks, and the web apps on top.</p>
 
-<p align="center">
-  <a href="https://portfolio-one-orpin-ox8bfr2dfa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/vishwanathan-tamizharasan-168b86286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:pranav27062007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
 
 ---
 
