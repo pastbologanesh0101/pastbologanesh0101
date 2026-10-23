@@ -52,9 +52,10 @@
 - Helping run student tech initiatives: sponsorships, outreach, event organization
 - Looking for software engineering internships
 
-### 🐍 Contributions
+### 👻 Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pastbologanesh0101/pastbologanesh0101/output/snake-dark.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/pastbologanesh0101/pastbologanesh0101/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pastbologanesh0101/pastbologanesh0101/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pastbologanesh0101/pastbologanesh0101/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pastbologanesh0101/pastbologanesh0101/output/pacman-contribution-graph.svg">
 </picture>
